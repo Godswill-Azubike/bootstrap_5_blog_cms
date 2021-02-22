@@ -40,9 +40,9 @@ database with the following tables
 
 **controllers operations**
 
-crud on post
+~crud on post~
 
-we want to have the ability to:
+`we want to have the ability to:`
     1 = make new post;
     2 = read or fetch out all the post
     3 = read out single post 
