@@ -1,4 +1,4 @@
-#Projust prototype
+# Projust prototype
 
 **Database models**
 
@@ -17,6 +17,7 @@ database with the following tables
     2 = post_title col
     3 = post_body col
     4 = post_auth col
+    5 = post_image col
     5 = cat_id col
     6 = created_at col
 
